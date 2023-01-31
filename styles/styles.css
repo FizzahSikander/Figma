@@ -1,0 +1,124 @@
+.header {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.nav {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    font-style: normal;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-left: 97px;
+    margin-top: 48px;
+    margin-right: 1282px;
+    width: 100%;
+}
+
+.nav>li {
+    margin-left: 38px;
+}
+
+.logo {
+    font-family: 'Circular Std';
+    margin-top: 41px;
+    margin-left: 80px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 160%;
+    /* or 48px */
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+
+}
+
+.dott {
+    color: #33A2E0;
+}
+
+.first-button {
+    background: #33A2E0;
+    border-radius: 6px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+    border: none;
+}
+
+section {
+    display: inline-block;
+}
+
+.main-title {
+    max-width: 495px;
+    width: 100%;
+    font-family: 'Ramaraja';
+    margin-top: 199.09px;
+    margin-left: 200px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
+
+.main-inf {
+    max-width: 583px;
+    width: 100%;
+    margin-top: 13px;
+    margin-left: 200px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+}
+
+.last-button {
+    background: #33A2E0;
+    border-radius: 6px;
+    width: 152px;
+    height: 64px;
+    margin-top: 47px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-left: 200px;
+    border: none;
+}
+
+div {
+    display: inline;
+}
